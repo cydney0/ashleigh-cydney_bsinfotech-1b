@@ -1,0 +1,25 @@
+body{
+   background-image: url(lele.png);
+       background-size: 1950px;
+       background-attachment: fixed;
+       background-position: center;
+       height: 2100;
+       color: black;
+}
+
+header{
+    background-color:rgb(105, 105, 105) ;
+    padding: 20px;
+    color: beige;
+}
+ h1{
+    font-size: medium;
+    margin:0;
+ }
+footer{
+  background-color: beige;
+  padding: 15px;
+  color: black;
+  text-align: center;
+}
+
